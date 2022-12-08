@@ -1,0 +1,34 @@
+{
+  "fotos": [
+    {
+      "img": "https://cdn.pixabay.com/photo/2019/12/04/20/45/brazil-4673664__340.jpg",
+      "titulo": "Maracanã",
+      "id": 19
+    },
+    {
+      "img": "https://prefeitura.rio/wp-content/uploads/2022/05/52096346228_6807b03c82_k.jpg",
+      "titulo": "Engenhão",
+      "id": 20
+    },
+    {
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/04/4a/13/iluminacao-noturna-da.jpg?w=1200&h=-1&s=1",
+      "titulo": "Arena da Baixada",
+      "id": 22
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Imagens_da_Cidade_de_S%C3%A3o_Paulo_e_Zool%C3%B3gico_da_Capital_Paulista._%2847480340301%29.jpg/640px-Imagens_da_Cidade_de_S%C3%A3o_Paulo_e_Zool%C3%B3gico_da_Capital_Paulista._%2847480340301%29.jpg",
+      "titulo": "Allianz Parque",
+      "id": 23
+    },
+    {
+      "img": "https://i.pinimg.com/originals/be/bb/0e/bebb0ee7f76cd91157c6ffdfdc9290f1.jpg",
+      "titulo": "São Januário ",
+      "id": 25
+    },
+    {
+      "img": "https://santaportal.com.br/wp-content/uploads/2021/05/201510121724319g.jpg",
+      "titulo": "Vila Belmiro",
+      "id": 26
+    }
+  ]
+}

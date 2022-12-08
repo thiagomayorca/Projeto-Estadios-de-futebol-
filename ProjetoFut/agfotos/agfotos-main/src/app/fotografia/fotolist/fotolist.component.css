@@ -1,0 +1,6 @@
+.titulo{
+    color: rgb(6, 5, 17);
+  text-shadow: -1px 0 rgb(16, 20, 221), 0 1px rgb(52, 73, 192), 1px 0 rgb(72, 74, 189), 0 -rgb(109, 61, 187)lack;
+    box-shadow: 0 12px 16px 0 rgba(8, 103, 245, 0.24), 0 17px 50px 0 rgba(87, 73, 207, 0.19); 
+    text-align: center;
+  }
